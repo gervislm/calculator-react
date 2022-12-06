@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ejemplo2/static/css/main.df5decae.css",
-    "main.js": "/ejemplo2/static/js/main.aa131c48.js",
-    "index.html": "/ejemplo2/index.html",
-    "main.df5decae.css.map": "/ejemplo2/static/css/main.df5decae.css.map",
-    "main.aa131c48.js.map": "/ejemplo2/static/js/main.aa131c48.js.map"
+    "main.css": "/calculator-react/static/css/main.df5decae.css",
+    "main.js": "/calculator-react/static/js/main.aa131c48.js",
+    "index.html": "/calculator-react/index.html",
+    "main.df5decae.css.map": "/calculator-react/static/css/main.df5decae.css.map",
+    "main.aa131c48.js.map": "/calculator-react/static/js/main.aa131c48.js.map"
   },
   "entrypoints": [
     "static/css/main.df5decae.css",
